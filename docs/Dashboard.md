@@ -3,8 +3,8 @@ id: DB
 title: Dashboard
 ---
 
-Dashboard, adalah fitur dari aplikasi **`KP3SKP Sistem Manajemen Soal`** untuk melihat data dari Kategori Peserta, Jumlah Peserta yang daftar pada sertifikasi dari tahun ke tahun, serta Jadwal Ujian dari semua sertifikasi
+Dashboard, adalah fitur dari aplikasi **`KP3SKP Sistem Manajemen Soal`** untuk melihat data dari Permintaan Soal,Total Jadwal Validasi Internal, dan Total Jadwal Validasi Eksternal.
 
 Berikut adalah tampilan dari dashboard :
 
-![img](/img/Dashboard.png)
+![img](/img/Dashboard.PNG)

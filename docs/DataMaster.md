@@ -3,158 +3,89 @@ id: DM
 title: Data Master
 ---
 
-### • Administrator
+### • Parameter Penilaian
 
-Administrator, adalah fitur dari aplikasi ****`KP3SKP Sistem Admin Ujian`**** untuk menambahkan Administrator / orang yang bertugas untuk mengurusi hal-hal administrasi.
-Di sini juga kita dapat memberikan hak akses tertentu kepada Administrator yang di tambahkan.
+Parameter Penilaian, adalah  fitur dari aplikasi **`KP3SKP Sistem Manajemen Soal`** untuk menambahkan parameter untuk penilaian ujian.
 
-Cara untuk menambahkan Administrator sebagai berikut :
+Berikut adalah cara untuk menambahkan Parameter Penilaian :
 
-**1. Klik tombol tambah**
+**1. Klik tombol tambah data yang berwarna hijau**
+
+![image](/img/Tambah.png) 
+
+**2. Isi data yang ingin ditambah kan**
+
+![image](/img/PP_data.PNG)
+
+**3.  Lalu klik tombol tambah data yang berwarna biru**
+
+![image](/img/Tdata.PNG)
+
+Kita juga dapat mengubah atau menghapus data yang sudah ada.
+
+---
+
+### • Suplemen
+
+Suplemen, adalah fitur dari aplikasi **`KP3SKP Sistem Manajemen Soal`** untuk menambahkan suplemen ujian.
+
+Berikut adalah cara untuk menambahkan Suplemen :
+
+**1. Klik tombol tambah data yang berwarna hijau**
 
 ![image](/img/Tambah.png)
 
-#### 2. Isi form sesuai dengan data yang ada
+**2. Isi data yang ingin ditambah kan**
 
-![image](/img/Admin_data.png)
+![image](/img/SUP_data.PNG)
 
-#### 3. Jika ingin menambahkan hak akses, klik tombol hak akses
+**3.  Lalu klik tombol tambah data yang berwarna biru**
 
-![image](/img/Admin_akses.PNG)
+![image](/img/Tdata.PNG)
 
-#### 4. Lalu pilih hak akses yang ingin di berikan
+Kita juga dapat mengubah atau menghapus data yang sudah ada.
+---
 
-![image](/img/Admin_akses2.png)
+### • Topik
 
-#### 5. Lalu klik simpan
+Topik, adalah fitur dari aplikasi **`KP3SKP Sistem Manajemen Soal`** untuk menambahkan topik ujian.
 
+Berikut adalah cara untuk menambahkan Topik :
 
-Di sini kita juga dapat menghapus maupun mengedit data yang sudah ada.
+**1. Klik tombol tambah data yang berwarna hijau**
+
+![image](/img/Tambah.png)
+
+**2. Isi data yang ingin ditambah kan**
+
+![image](/img/Topik_data.PNG)
+
+**3.  Lalu klik tombol tambah data yang berwarna biru**
+
+![image](/img/Tdata.PNG)
+
+Kita juga dapat mengubah atau menghapus data yang sudah ada.
 
 ---
 
-### • Kontributor
+### • Struktur Validasi
 
-Kontributor, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk menambahkan kontributor.
+Struktur Validasi, adalah fitur dari aplikasi **`KP3SKP Sistem Manajemen Soal`** untuk menambahkan struktur validasi.
 
-Cara untuk menambahkan Kontributor sebagai berikut :
-#### 1. Klik tombol tambah
+Berikut adalah cara untuk menambahkan Struktur Validasi :
 
-![image](/img/Tambah.PNG)
+**1. Klik tombol tambah data yang berwarna hijau**
 
-#### 2. Isi form sesuai dengan data yang ada
+![image](/img/Tambah.png)
 
-![image](/img/Tor_data.png)
+**2. Isi data yang ingin ditambah kan**
 
-#### 3. Lalu klik simpan
+![image](/img/SV_data.PNG)
 
+**3.  Lalu klik tombol tambah data yang berwarna biru**
 
-Di sini kita juga dapat menghapus maupun mengedit data yang sudah ada.
+![image](/img/Tdata.PNG)
 
----
-
-### • Korektor
-
-Korektor, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk menambahkan korektor / orang yang menghapus atau merombak kesalahan.
-
-Cara untuk menambahkan Korektor sebagai berikut :
-
-#### 1. Klik tombol tambah
-
-![image](/img/Tambah.PNG)
-
-#### 2. Isi form sesuai dengan data yang ada
-
-![image](/img/Tor_data.png)
-
-#### 3. Lalu klik simpan
-
-
-Di sini kita juga dapat menghapus maupun mengedit data yang sudah ada.
-
----
-
-### • Validator
-
-Validator, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk menambahkan validator / orang yang mengsahkan atau mengvalidasi sebuah soal.
-
-Cara untuk menambahkan Validator sebagai berikut :
-
-#### 1. Klik tombol tambah
-
-![image](/img/Tambah.PNG)
-
-#### 2. Isi form sesuai dengan data yang ada
-
-![image](/img/Tor_data.png)
-
-#### 3. Lalu klik simpan
-
-
-Di sini kita juga dapat menghapus maupun mengedit data yang sudah ada.
-
----
-
-### • Pengawas
-
-Pengawas, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk menambahkan pengawas / orang yang mengawasi berlangsung nya ujian.
-
-Cara untuk menambahkan Pengawas sebagai berikut :
-
-#### 1. Klik tombol tambah
-
-![image](/img/Tambah.PNG)
-
-#### 2. Isi form sesuai dengan data yang ada
-
-![image](/img/Pen_data.png)
-
-#### 3. Lalu klik simpan
-
-
-Di sini kita juga dapat menghapus maupun mengedit data yang sudah ada.
-
----
-
-### • Peninjau
-
-Peninjau, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk menambahkan peninjau.
-
-Cara untuk menambahkan Peninjau sebagai berikut :
-
-#### 1. Klik tombol tambah
-
-![image](/img/Tambah.PNG)
-
-#### 2. Isi form sesuai dengan data yang ada
-
-![image](/img/Pen_data.png)
-
-#### 3. Lalu klik simpan
-
-
-Di sini kita juga dapat menghapus maupun mengedit data yang sudah ada.
-
----
-
-
-### • Master Kompetensi
-
-Master Kompetensi, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk menambahkan kompetensi baru.
-
-Cara untuk menambahkan kompetensi baru sebagai berikut :
-
-#### 1. Klik tombol tambah
-
-![image](/img/Tambah.PNG)
-
-#### 2. Isi data yang sesuai
-
-![image](/img/MK_data2.png)
-
-#### 3. Lalu klik simpan
-
-
-Di sini kita juga dapat menghapus maupun mengedit data yang sudah ada.
+Kita juga dapat mengubah atau menghapus data yang sudah ada.
 
 ---

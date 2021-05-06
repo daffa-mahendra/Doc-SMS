@@ -3,118 +3,74 @@ id: VI
 title: Validasi Soal Internal
 ---
 
-### • Master Mata Ujian
+### • Jadwal Validasi Internal
 
-Master Mata Ujian, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk menambahkan mata ujian.
+Jadwal Validasi Eksternal, adalah fitur dari aplikasi **`KP3SKP Sistem Manajemen Soal`** untuk menambahkan jadwal validasi internal.
 
-Cara untuk menambahkan Master Mata Ujian adalah sebagai berikut :
+Berikut adalah beberapa fungsi yang ada pada Jadwal Validasi Internal:
 
-#### 1. Klik tombol tambah
+![image](/img/Jadwal_fungsi.PNG)
 
-![image](/img/Tambah.PNG)
+**Filter**
 
-#### 2. Isi data yang sesuai
+Fungsi filter ini digunakan untuk menyaring data 
 
-![image](/img/MMU_data2.png)
+**Tambah Jadwal**
 
-#### 3. Lalu klik simpan
+Fungsi tambah ini digunakan untuk menambahkan jadwal validasi eksternal
 
+**Download Berita Acara**
 
+Fungsi download ini digunakan untuk mengunduh data berita acara
 
-Di sini kita juga dapat menghapus maupun mengedit data yang sudah ada.
+**Download Surat Tugas**
 
----
-
-### • Master Sertifikasi
-
-Master sertifikasi, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk menambahkan sertifikasi.
-
-Cara untuk menambahkan Master Sertifikasi adalah sebagai berikut :
-
-#### 1. Klik tombol tambah
-
-![image](/img/Tambah.PNG)
-
-#### 2. Isi data yang sesuai
-
-![image](/img/MS_data2.png)
-
-#### 3. Lalu klik simpan
+Fungsi download ini digunakan untuk mengunduh data surat tugas
 
 
-
-Di sini kita juga dapat menghapus maupun mengedit data yang sudah ada.
+Kita juga dapat melihat detail dokumen, mengunduh presensi, melihat detail set soal, mengubah data  ataupun menghapus data dengan mengklik tombol pada kolom aksi.
 
 ---
 
-### • Periode Ujian
+### • Bahan Soal
 
-Periode Ujian, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk menambahkan periode berlangsung nya ujian.
+Bahan Soal, adalah fitur dari aplikasi **`KP3SKP Sistem Manajemen Soal`** untuk menambahkan bahan soal ujian. 
 
-Cara untuk menambahkan Periode Ujian adalah sebagai berikut :
+Berikut adalah cara untuk menambahkan Bahan Soal:
 
-#### 1. Klik tombol tambah
+**1. Klik tombol tambah**
 
-![image](/img/Tambah.PNG)
+![image](/img/Tambah_B2.png)
 
-#### 2. Isi data yang sesuai
+**2. Isi data yang ingin ditambah kan**
 
-![image](/img/PU_data2.PNG)
+![image](/img/Bahan_data.PNG)
 
-#### 3. Lalu klik simpan
+**3.  Lalu klik tombol tambah bahan soal**
 
+![image](/img/Tambah_B.PNG)
 
-
-Di sini kita juga dapat menghapus maupun mengedit data yang sudah ada.
-
----
-
-### • Jadwal Sertifikasi
-
-Jadwal Sertifikasi, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk menambahkan jadwal berlangsung nya sertifikasi.
-
-Cara untuk menambahkan Jadwal Sertifikasi adalah sebagai berikut :
-
-#### 1. Klik tombol tambah
-
-![image](/img/Tambah.PNG)
-
-#### 2. Isi data yang sesuai
-
-:::note
-
-Pada Backoffice nya tidak bisa tambah data, jadi tidak ada gambar
-
-:::
-#### 3. Lalu klik simpan
+Kita juga dapat melihat detail data, mengubah data  ataupun menghapus data dengan mengklik tombol pada kolom aksi.
 
 ---
 
-### • Data Peserta
+### • Naskah Soal
 
-Data Peserta, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk melihat data dari para peserta yang mengikuti sertifikasi.
+Naskah Soal, adalah fitur dari aplikasi **`KP3SKP Sistem Manajemen Soal`** untuk menambahkan naskah soal ujian. 
 
-Berikut tampilan nya: 
+Berikut adalah cara untuk menambahkan Naskah Soal :
 
-:::note
+**1. Klik tombol buat naskah soal**
 
-Pada Backoffice data nya empty, jadi tidak ada gambar
+![image](/img/Buat_N.png)
 
-:::
+**2. Isi data yang ingin ditambah kan**
 
----
+![image](/img/Naskah_data.PNG)
 
-### • Riwayat Peserta
+**3.  Lalu klik tombol tambah naskah soal**
 
-Riwayat Peserta, adalah fitur dari aplikasi **`KP3SKP Sistem Admin Ujian`** untuk melihat data dari para peserta yang mendaftar sertifikasi.
-
-Berikut tampilan nya: 
-
-:::note
-
-Pada Backoffice data nya kosong, jadi tidak ada gambar
-
-:::
+![image](/img/Tambah_N.PNG)
 
 ---
 

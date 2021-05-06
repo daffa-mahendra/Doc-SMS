@@ -9,5 +9,4 @@ Berikut adalah tampilan dari riwayat aktivitas :
 
 ![image](/img/RA.PNG)
 
-
 ---     
